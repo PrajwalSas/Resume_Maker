@@ -21,5 +21,5 @@ from user_info.views import victim_view_better, url_view
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('create/', victim_view_better),
-    path('info/', url_view),
+    path('', url_view),
  ]

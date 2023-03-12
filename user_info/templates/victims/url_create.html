@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <form action="/info/" method="POST">
+      {% csrf_token %} {{ form.as_p }}
+      <input type="submit" value="Save" style = "width : 100px"/>
+    </form>
+  </body>
+</html>

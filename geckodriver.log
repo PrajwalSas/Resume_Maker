@@ -2115,3 +2115,34 @@ JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line
 JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
 JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
 1678638121321	Marionette	INFO	Stopped listening on port 33501
+1678642180937	geckodriver	INFO	Listening on 127.0.0.1:37441
+1678642181444	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXjDX2i"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678642182015	Marionette	INFO	Marionette enabled
+1678642182018	Marionette	INFO	Listening on port 35639
+Read port: 35639
+WebDriver BiDi listening on ws://127.0.0.1:49027
+1678642182112	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXjDX2i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49027/devtools/browser/a01b4339-7d84-47b8-ace9-b63d95c2eb9c
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+1678642208230	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+1678642230106	Marionette	INFO	Stopped listening on port 35639

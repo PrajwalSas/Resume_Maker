@@ -5,14 +5,14 @@ The above app is ready to deploy, there was a server error I was not able to fix
 To run it in your system follow the below steps.
 
 Run below command in terminal after replacing path to install all dependancies
-'''
+```
 pip install -r /path/to/requirements.txt
-'''
+```
 
 Then go to the directory which contains the 'manage.py' file and run the below command in terminal
-'''
+```
 python manage.py runserver
-'''
+```
 
 Click in the link generated and fill the required details.
 On clicking 'save' you will be redirected to the next page after the app scrapes your profile and saves the required information.

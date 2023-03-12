@@ -2065,3 +2065,53 @@ JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line
 1678611927775	geckodriver	INFO	Listening on 127.0.0.1:51839
 1678611931464	geckodriver	INFO	Listening on 127.0.0.1:51850
 1678611945009	geckodriver	INFO	Listening on 127.0.0.1:51987
+1678638052084	geckodriver	INFO	Listening on 127.0.0.1:34405
+1678638052593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48243" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileaOGUwd"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678638053176	Marionette	INFO	Marionette enabled
+1678638053180	Marionette	INFO	Listening on port 32817
+WebDriver BiDi listening on ws://127.0.0.1:48243
+Read port: 32817
+1678638053384	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaOGUwd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:48243/devtools/browser/10850c88-dc9e-47ac-9dc8-455f19e50c7a
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+1678638058127	Marionette	INFO	Stopped listening on port 32817
+1678638058488	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+1678638072230	geckodriver	INFO	Listening on 127.0.0.1:36277
+1678638072736	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35201" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7UjGzK"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1678638073304	Marionette	INFO	Marionette enabled
+1678638073307	Marionette	INFO	Listening on port 33501
+Read port: 33501
+WebDriver BiDi listening on ws://127.0.0.1:35201
+1678638073395	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7UjGzK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:35201/devtools/browser/07215c38-518c-4d5f-94e7-8a92bb8fac01
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+JavaScript warning: https://static.licdn.com/sc/h/dvrda94cfmp1xzkryzuq4w5j, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[GFX1-]: Couldn't sanitize RENDERER device: RENOIR
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.linkedin.com."
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/19tl52tvyqkp7k6f54bmjnqq4, line 2682: unreachable code after return statement
+JavaScript warning: https://static.licdn.com/sc/h/m3gikxcta1u17odkt6gvtw9c, line 19250: unreachable code after return statement
+1678638121321	Marionette	INFO	Stopped listening on port 33501
